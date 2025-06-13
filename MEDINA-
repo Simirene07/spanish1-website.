@@ -1,0 +1,39 @@
+<section id="para-empezar" class="bg-white p-6 rounded shadow-md">
+  <h2 class="text-2xl font-bold mb-4 text-red-600">Para empezar</h2>
+  <p class="mb-4">En esta unidad introductoria aprenderás saludos, despedidas, los números, el alfabeto, los días de la semana y más.</p>
+
+  <h3 class="text-xl font-semibold text-gray-700 mb-2">Saludos y Despedidas</h3>
+  <ul class="list-disc pl-6 mb-4">
+    <li>¡Hola! — Hello!</li>
+    <li>Buenos días — Good morning</li>
+    <li>Buenas tardes — Good afternoon</li>
+    <li>Buenas noches — Good night</li>
+    <li>Adiós — Goodbye</li>
+    <li>Hasta luego — See you later</li>
+    <li>Nos vemos — See you</li>
+  </ul>
+
+  <h3 class="text-xl font-semibold text-gray-700 mb-2">Números (0–30)</h3>
+  <p>0 – cero, 1 – uno, 2 – dos, 3 – tres, 4 – cuatro, 5 – cinco, ... 30 – treinta</p>
+
+  <h3 class="text-xl font-semibold text-gray-700 mt-4 mb-2">Días de la semana</h3>
+  <ul class="list-disc pl-6 mb-4">
+    <li>Lunes</li>
+    <li>Martes</li>
+    <li>Miércoles</li>
+    <li>Jueves</li>
+    <li>Viernes</li>
+    <li>Sábado</li>
+    <li>Domingo</li>
+  </ul>
+
+  <h3 class="text-xl font-semibold text-gray-700 mt-4 mb-2">El alfabeto español</h3>
+  <p>A, B, C, CH, D, E, F, G, H, I, J, K, L, LL, M, N, Ñ, O, P, Q, R, RR, S, T, U, V, W, X, Y, Z</p>
+
+  <h3 class="text-xl font-semibold text-gray-700 mt-4 mb-2">Actividad recomendada</h3>
+  <ul class="list-disc pl-6">
+    <li><a href="https://quizlet.com/subject/para-empezar-autentico/" class="text-blue-600 hover:underline" target="_blank">Quizlet - Para empezar</a></li>
+    <li><a href="#" class="text-blue-600 hover:underline">Hoja de práctica (PDF)</a></li>
+    <li><a href="#" class="text-blue-600 hover:underline">Video: Saludos en español</a></li>
+  </ul>
+</section>
